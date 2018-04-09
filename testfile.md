@@ -17,20 +17,20 @@ Index
 Chapter1. Game Summary
 ----------------------
 
--	#### Basic Information
--	#### Overview
+-	### Basic Information
+-	### Overview
 
 Chapter2. Synopsis
 ------------------
 
--	#### 기획 의도
--	#### 세계관
--	#### Main Concept
+-	### 기획 의도
+-	### 세계관
+-	### Main Concept
 
 Chapter3. Feature
 -----------------
 
--	#### Double Player Game(2P)
+-	### Double Player Game(2P)
 
 Chapter4. Critical Reception
 ----------------------------
@@ -38,9 +38,9 @@ Chapter4. Critical Reception
 Chapter5. Game Play
 -------------------
 
--	#### Game Start
--	#### Game
--	#### Items of Game
+-	### Game Start
+-	### Game
+-	### Items of Game
 
 Chapter6. Game Rule
 -------------------
@@ -51,8 +51,8 @@ Chapter7. Level & Map Design
 Chapter8. Graphics User InterFace
 ---------------------------------
 
--	#### Score Board
--	#### Main Game Screen
+-	### Score Board
+-	### Main Game Screen
 
 Chapter.9 Compare with Later Version
 ------------------------------------
@@ -60,12 +60,12 @@ Chapter.9 Compare with Later Version
 Chapter.10 Credits
 ------------------
 
--	##### Programmer
--	##### Character
--	##### Sound
--	##### Planner
--	##### Special Thanks To..
--	##### Producer
+-	### Programmer
+-	### Character
+-	### Sound
+-	### Planner
+-	### Special Thanks To..
+-	### Producer
 
 Chapter.11 References
 ---------------------
