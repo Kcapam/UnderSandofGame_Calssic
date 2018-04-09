@@ -11,6 +11,7 @@ Analize of Game Contents
 > **학번 : 201720697**  
 > **제출자 : 강형국**
 <hr>
+
 Index
 =====
 
@@ -23,7 +24,6 @@ Chapter2. Synopsis
 ------------------
 ### 기획의도
 ### 세계관
-> -
 
 ### Main Concept
 
@@ -38,8 +38,9 @@ Chapter4. Critical Reception
 
 Chapter5. Game Play
 -------------------
-### 1. Game Start
-#### -Insert Coin  - Select Player Type
+### Game Start
+### Game 
+### Items of Game
 
 Chapter6. Game Rule
 -------------------
