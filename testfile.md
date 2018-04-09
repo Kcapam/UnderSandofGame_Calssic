@@ -67,22 +67,22 @@ ESRB Rating　Not evaluated
 Perspective    
 
 # Chapter2. Synopsis  
-<hr>  
+
 # Chapter3. Feature  
-<hr>  
+
 # Chapter4. Critical Reception  
-<hr>  
+
 # Chapter5. Game Play  
-<hr>  
+
 # Chapter6. Game Rule  
-<hr>  
+
 # Chapter7. Level & Map Design  
-<hr>  
+
 # Chapter8. Graphics User InterFace  
-<hr>  
+
 # Chapter.9 Compare with Later Version  
-<hr>  
+
 # Chapter.10 Credits  
-<hr>  
+
 # Chapter.11 References  
-<hr>  
+
