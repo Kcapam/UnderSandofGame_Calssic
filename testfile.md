@@ -40,3 +40,15 @@ Chapter8. Graphics User InterFace
 
 Chapter9. Soundtrack
 --------------------
+## Chapter.10 Compare with Previous Version
+## Chapter.11 Credits
+## Chapter.12 References
+
+# Chapter1. Game Summary
+##Basic Informaion
+Publisher      Taito
+Developer      Taito
+Release Date   August 1986
+ESRB Rating    
+Perspective    
+
