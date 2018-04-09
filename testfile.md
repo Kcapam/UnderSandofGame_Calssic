@@ -56,10 +56,11 @@ Chapter9. Soundtrack
 ## Chapter.11 Credits
 ## Chapter.12 References
 
-<hr>
+<hr>  
+
 # Chapter1. Game Summary
-##Basic Informaion
-Publisher      Taito  
+## Basic Informaion
+Publisher　Taito
 Developer      Taito  
 Release Date   August 1986(At Japan)  
 ESRB Rating    
