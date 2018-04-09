@@ -24,6 +24,7 @@ Chapter2. Synopsis
 ------------------
 ### 기획의도
 ### 세계관
+> "Baron Von Blubba" has kidnapped the brothers Bubby and Bobby's girlfriends and turned the brothers into Bubble Dragons, Bub and Bob. they have to finish 010 levels in the Cave of Monsters in order to rescue them.
 
 ### Main Concept
 
@@ -51,19 +52,37 @@ Chapter7. Level & Map Design
 Chapter8. Graphics User InterFace
 ---------------------------------
 
-Chapter9. Soundtrack
---------------------
-## Chapter.10 Compare with Later Version
-## Chapter.11 Credits
-## Chapter.12 References
+## Chapter.9 Compare with Later Version
+## Chapter.10 Credits
+## Chapter.11 References
 
 <hr>  
 
 # Chapter1. Game Summary
 ## Basic Informaion
-Publisher　Taito
-Developer      Taito  
-Release Date   August 1986(At Japan)  
-ESRB Rating    
-Perspective    
+Publisher　Taito  
+Developer　Taito  
+Release Date　August 1986(At Japan)  
+ESRB Rating　Not evaluated
+Perspective    
 
+# Chapter2. Synopsis  
+<hr>  
+# Chapter3. Feature  
+<hr>  
+# Chapter4. Critical Reception  
+<hr>  
+# Chapter5. Game Play  
+<hr>  
+# Chapter6. Game Rule  
+<hr>  
+# Chapter7. Level & Map Design  
+<hr>  
+# Chapter8. Graphics User InterFace  
+<hr>  
+# Chapter.9 Compare with Later Version  
+<hr>  
+# Chapter.10 Credits  
+<hr>  
+# Chapter.11 References  
+<hr>  
