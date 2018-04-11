@@ -57,9 +57,9 @@ Chapter8. Graphics User InterFace
 Chapter.9 Compare with Later Version
 ------------------------------------
 
--	### Bubble Symphony (Second Series)  
--	### Bubble Memories (Third Series)
--	### Bubble Bobble for KAKAO (Published by Kakao Games)
+-	### Same Part : Condition to Win  
+-	### Same Part : Way of Playing Game
+-	### Different Part : Elements of Game
 
 Chapter.10 Credits
 ------------------
@@ -114,7 +114,7 @@ Chapter2. Synopsis
 
 #### 원본 및 번역본
 
-> "Baron Von Blubba" has kidnapped the brothers Bubby and Bobby's girlfriends and turned the brothers into Bubble Dragons, Bub and Bob. they have to finish 010 levels in the Cave of Monsters in order to rescue them.  
+> "Baron Von Blubba" has kidnapped the brothers Bubby and Bobby's girlfriends and turned the brothers into Bubble Dragons, Bub and Bob. they have to finish 100 levels in the Cave of Monsters in order to rescue them.  
 > 번역하자면 "Baron Von Blubba"라는 악당이 Bubby와 Bobby의 여자친구를 납치한 뒤 그 둘을 버블공룡으로 만들어 버려 여자친구를 되찾기 위하여 그 둘이 탑을 100층의 몬스터로 가득 찬 미궁을 클리어하는 것이다.<br>  
 > 여기까지가 제작사에서 공개한 ***Bubble Bobble*** 의 세계관이다. 그러나 이스터에그를 활용하여 게임을 분석한 매니아들에 의하여 클리어한 최종보스의 정체는 악당 "Baron Von Blubba"가 아니라 바로 부모님이었고 그의 마법에 걸려 용이 된 주인공의 부모님을 구하면 진짜 엔딩을 볼 수 있다. 아이러니하게도 그냥 플레이 시 최종보스를 섬멸하고 끝나게 되는데, 그렇게 되면 주인공들의 부모님들은 죽는다는 예기가 된다.
 
@@ -141,6 +141,40 @@ Chapter6. Game Rule
 
 Chapter7. Level & Map Design
 ============================
+
+-	### Stage Design ![](Bubble_Bobble_Levels.png)
+
+##### ***Bubble Bobble*** 에서 1층에서부터 100층까지의 Stage 생김새
+
+> ***Bubble Bobble*** 에는 1층부터 100층까지 총 100개의 Stage가 있고 이중 마지막 100번 방에는 해당 게임을 클리어 할 수 있는 최종 보스가 존재한다. 각각의 Stage을 구성하는 요소는 **플레이어, 몬스터, 벽돌, 구멍, 스폰방울** 이다. 이들을 조합하여 무수하게 많은 종류의 스테이지를 만들어 낼 수 있다.
+
+-	### Design of Chracters, Monsters, Elements  
+	![](Bubble_Bobble_Character_Pic.png)  
+	Character, 좌:Player1 우: Player2  
+
+##### ***Bubble Bobble*** 의 주인공
+
+> ***Bubble Bobble*** 의 주인공이자 플레이어들이 움직이는 캐릭터이다. 좌,우 점프를 할 수 있으며 방울을 발사하여 적들을 방울 안에 가둘 수 있다. 방울에 가둔 적을 터트려 나오는 아이템으로 점수를 획득하게 되며, 처음에 일정량의 생명을 가지고 시작하고 게임 중에 등장하는 알파벳들을 모아서 추가 생명을 획득할 수 있다.
+
+　　　　　　　　　　　　![](드렁크.png)![](뚜루뚜루.png)![](히데콘스.png)![](마이타.png)  
+　　　　　　　　　　　　![](몬스타.png)![](바네보.png)![](인베이더.png)![](젠짱.png)
+
+##### ***Bubble Bobble*** 의 몬스터
+
+> Bubble Bobble에서 플레이어들의 클리어를 방해하는 역할을 맡은 몬스터들이다.(좌측 상단부터 우측 하단까지 드렁크, 푸루푸루, 히데콘스, 마이타, 몬스타, 바네보, 인베이더, 젠짱)이다. 이 몬스터들은 각각의 독특한 능력을 가지고 있다. 불을 뿜거나, 날아다니거나, 점프를 높이 하거나 등등 이러한 몬스터의 조합만으로도 디자인할 수 있는 스테이지는 무궁무진하다.
+
+　　　　　　　　　![](라스칼.png)![](스컬 몬스타.png)![](슈퍼드링크.png)
+
+##### ***Bubble Bobble*** 의 특수 몬스터
+
+> ***Bubble Bobble*** 에는 일반적인 몬스터도 많지만 게임의 플레이에 더욱 방대하고 직접적인 영향을 미치고 특수한 행동을 하도록 설계된 몬스터틀이 존재한다 우측부터(라스칼, 스컬 몬스타, 슈퍼 드렁크)이다. 우선 이 몬스터들은 크게 두 가지로 분류할 수 있다.  
+>  - #### 보스 몬스터  
+> 이에 해당하는 몬스터는 슈퍼 드렁크로서 이 게임의 최종 보스 역할을 하고 있다.
+>
+> -	#### 영파[1]  
+> 	방지 몬스터 플레이어의 영파를 방지하기 위해서 플레이어가 일정 시간 동안 한 스테이지를 클리어하지 못하면(보스 몬스터 제외) 등장하는 몬스터로서 무적이며 공중을 날아다니고 플레이어와 접촉하여 플레이어의 사망을 유발한다. 이에 대항되는 몬스터로써는 ***스컬 몬스타*** 와 ***라스칼*** 이 있는데 이중 일반적인 스테이지에서의 영파 방지는 ***스컬 몬스타*** 가 책임지고 해결하고, 특수 및 보너스 스테이지에서는 ***라스칼*** 이 영파 방지 몬스터 역할을 수행하게 된다.
+
+　[1] : 영구 파밍의 줄임말로써 플레이어가 기록갱신을 위하여 한 스테이지에 머물러 점수를 올리는 행위 <hr>
 
 Chapter8. Graphics User InterFace
 =================================
@@ -196,14 +230,25 @@ Chapter.9 Compare with Later Version
 
 ### **전작과의 차이점 : 게임 플레이 요소**
 
-> 기본적으로 전작들과의 차이를 줄이기 위하여 큰 변화는 주지 않았지만 스테이지의 구성이 ***Bubble Symphony*** 의 경우 총 51스테이지로 스테이지의 개수가 확 줄어들었으며 이어지는 후속편인 ***Bubble Memories*** 에서는 전작보다는 늘었지만 초기작보다는 여전히 작은 80개의 스테이지로 구성되게 된다. 또한 가장 큰 차이점으로는 보스의 개수가 증가하였고 각 보스마다 해당 스테이지까지 향하기까지의 특색이 추가되었다. 캐릭터 선택의 폭이 증가한 것도 하나의 변화이다. 초기작 ***Bubble Bobble*** 과는 다르게 ***Bubble Symphony*** 에서는 총 4개의 캐릭터 **Bubblun, Bobblun, Kululun, Cororon** 의 연두, 파랑, 노랑, 분홍의 캐릭터들로 바뀌게 되었으며, 각각의 능력치가 다르게 설정되었다.  
->  - Bubblun  
->  기본적인 캐릭터이며 평균적인 능력치이다. 모아쏘기를 할 경우 3개의 버블이 동시에 사출된다.  
->  - Bobblun  
->  　이동속도가 빠른 반면 버블의 사정거리가 감소하였다, 모아쏘기를 할 경우 3개의 버블이 전방 3방향으로 사출된다.  
->  - Kululun  
->  　버블의 사정거리가 긴 대신 발사된 버블의 속도가 느린 편이다, 모아쏘기를 할 경우 버블이 앞, 뒤, 아래로 사출된다.  
->  - Cororon 　발사되는 버블의 속도가 빠른 대신 이동속도가 감소하였다, 모아쏘기를 할 경우 버블이 앞, 뒤, 위로 사출된다.
+> 기본적으로 전작들과의 차이를 줄이기 위하여 큰 변화는 주지 않았지만 스테이지의 구성이 ***Bubble Symphony*** 의 경우 총 51스테이지로 스테이지의 개수가 확 줄어들었으며 이어지는 후속편인 ***Bubble Memories*** 에서는 전작보다는 늘었지만 초기작보다는 여전히 작은 80개의 스테이지로 구성되게 된다. 또한 가장 큰 차이점으로는 보스의 개수가 증가하였고 각 보스마다 해당 스테이지까지 향하기까지의 특색이 추가되었다. 캐릭터가 공격키를 꾹 누르고 있으면 거대한 방울을 발사하여 여러 명의 적을 가두고 몬스터로부터 나오는 아이템의 점수가 증가하는 부분 캐릭터 선택의 폭이 증가한 것도 하나의 변화이다. 초기작 ***Bubble Bobble*** 과는 다르게 ***Bubble Symphony*** 에서는 총 4개의 캐릭터 **Bubblun, Bobblun, Kululun, Cororon** 의 연두, 파랑, 노랑, 분홍의 캐릭터들로 바뀌게 되었으며, 각각의 능력치가 다르게 설정되었다.<br>  
+> ![](Bubble_Symphony_characters.png) ![](Bubble_Bobble_Symphony_BigBubble.png)
+>
+> ##### **Bubble Symphony 의 캐릭터들** 　　　　　　　　　**Bubble Memories의 모아쏘기**
+>
+> -	Bubblun  
+> 	기본적인 캐릭터이며 평균적인 능력치이다. 모아쏘기를 할 경우 3개의 버블이 동시에 사출된다.  
+> -	Bobblun  
+> 	　이동속도가 빠른 반면 버블의 사정거리가 감소하였다, 모아쏘기를 할 경우 3개의 버블이 전방 3방향으로 사출된다.  
+> -	Kululun  
+> 	　버블의 사정거리가 긴 대신 발사된 버블의 속도가 느린 편이다, 모아쏘기를 할 경우 버블이 앞, 뒤, 아래로 사출된다.  
+> -	Cororon  
+> 	발사되는 버블의 속도가 빠른 대신 이동속도가 감소하였다, 모아쏘기를 할 경우 버블이 앞, 뒤, 위로 사출된다.  
+>
+> ![](Bubble_Bobble_Symphony_elementbubble.png)
+>
+> #### 속성 방울 중 불 속성 방울
+>
+> 전작과의 또 다른 차이점으로는 스테이지의 창의적인 해결법을 제시하는 각종 **"속성방울"** 들의 등장이다. 이는 보스전에서 크게 활약을 하기도 하고, 일반적인 스테이지라도 창의적인 플레이를 요구하도록 한다.
 
 <hr>
 
