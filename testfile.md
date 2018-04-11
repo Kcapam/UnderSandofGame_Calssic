@@ -57,6 +57,10 @@ Chapter8. Graphics User InterFace
 Chapter.9 Compare with Later Version
 ------------------------------------
 
+-	### Bubble Symphony (Second Series)  
+-	### Bubble Memories (Third Series)
+-	### Bubble Bobble for KAKAO (Published by Kakao Games)
+
 Chapter.10 Credits
 ------------------
 
@@ -90,7 +94,7 @@ Basic Informaion
 OverView
 --------
 
-> ***Bubble Bobble***은 Taito 사에서 1986년도에 출시하여 엄청난 성공을 거둔 아케이드 게임으로 여러 컴퓨터 및 콘솔에서 일찍 포팅되었으며, 국내에서는 보블보플이라는 이름보다는 보글보글 이라는 이름으로 더 널리 알려져있다. 간단한 조작과 귀여운 캐릭터 디자인으로 인하여 남녀노소를 가리지 않고 인기가 많았고, 여러 여성 게임 플레이어들을 많이 등장시키게 된 게임으로 게임 역사에서 의의가 깊다.  
+> ***Bubble Bobble*** 은 Taito 사에서 1986년도에 출시하여 엄청난 성공을 거둔 아케이드 게임으로 여러 컴퓨터 및 콘솔에서 일찍 포팅되었으며, 국내에서는 보블보플이라는 이름보다는 보글보글 이라는 이름으로 더 널리 알려져있다. 간단한 조작과 귀여운 캐릭터 디자인으로 인하여 남녀노소를 가리지 않고 인기가 많았고, 여러 여성 게임 플레이어들을 많이 등장시키게 된 게임으로 게임 역사에서 의의가 깊다.  
 > <br>본 게임을 디자인한 사람은 MTJ, 미츠지 후키오로서 ***Bubble Bobble***, ***Rainbow Island*** 등의 타이토의 명작 게임들을 만든 사람으로서 게임을 매우 사랑하여 "인생을 다 바쳐도 한 사람이 만들 수 있는 게임은 한정되어 있다. 나는 한 그루의 나무가 되기보다는 나무 심는 사람이 되고 싶다." 라는 말도 남겼으며 이스터 에그[1]를 포함해서 화면에 표시된 모든 것들을 게이머들이 적극적으로 활용할 수 있는 점을 부각하였고 숨겨진 커멘드를 입력하여 슈퍼 모드를 발동시키고 플레이를 할 경우 진짜 엔딩을 볼 수 있도록 비밀스럽게 설계하여 버블보블 마니아까지 생겨나며 폭발적인 인기를 발생시키는 원인이 되었다.  
 > <br> 아래의 링크는 Taito 사의 공식 홈페이지이며 아직도 인기있는 ***Bubble Bobble*** 의 귀여운 캐릭터 성을 살려 ***Bust-A-Move Journey / Puzzle Bobble Journey*** 같은 게임을 제작하고 있음을 알 수 있다.
 
@@ -119,6 +123,8 @@ Main Concept
 
 #### 커플을 게임 이용 대상으로 하여 성공한 게임
 
+> 특징에서 후술할 계획이지만 이 게임은 2명 이하의 플레이어의 동시 게임 플레이를 지원한다. 또한 귀여운 캐릭터 및 몬스터 디자인으로 인하여 여성 플레이어들의 마음을 움직였고, 오락성 측면에서 또한 뛰어나므로 **남성 플레이어** 는 두말할 필요도 없이 좋아하게 되었고 그 결과 커플이 쉽게 즐길 수 있는 게임이 되어 대성공을 거두게 되었다.
+
 <hr>
 
 Chapter3. Feature
@@ -142,7 +148,8 @@ Chapter8. Graphics User InterFace
 Game Main Screen 구성
 ---------------------
 
-![](BubblebobblePlay.png) **Total Game Scene**
+![](BubblebobblePlay.png)  
+ **Total Game Scene**
 
 #### 2-Dimensional 게임이며 게임 화면은 크게 점수판과 플레이 화면으로 구성되어 있다.
 
@@ -168,31 +175,62 @@ Game Main Screen 구성
 
 	-	맵 상단과 연결되어 창의적인 플레이어 동선을 유발하여 행동할 수 있는 경우의 수를 증가시킨다.
 
+<hr>
+
 Chapter.9 Compare with Later Version
 ====================================
+
+### ***Bubble Bobble*** 의 후속편
+
+> ***Bubble Bobble*** 은 첫번째부터 세번째까지의 세 개의 버젼이 있다. 두 번째인 ***Bubble Symphony*** 와 세 번째인 ***Bubble Memories*** 에서는 전작과는 다르게 미궁을 내려가는 것이 아니라 탑을 올라가는 형태의 스토리로 바뀌었다. 또한 플레이어가 선택 가능한 캐릭터의 수가 증가하였으며 각 캐릭터 별 고유 능력치도 다르게 출시되었다. 게다가 3편의 경우에는 세계관이 변경된다.<br>  
+> ![](Bubble_Bobble_Symphony.png)　![](Bubble_Bobble_Memories.png)  
+> **Bubble Bobble Symphony** 　　　　　　　　　　**Bubble Boble Memories**
+
+### **동일한 기본구도 : 승리조건**
+
+> 두 개의 후속작 ***Bubble Symphony*** 와 ***Bubble Memories*** 모두 정해진 갯수의 스테이지를 모든 목숨 소진 없이 해결하고 최종 보스를 클리어하여야 게임에서의 승리를 거머쥘 수 있다는 특징이 있다.
+
+### **동일한 기본개념 : 게임 플레이 방식**
+
+> 전작과 마찬가지로 플레이어는 적들을 방울에 가둔 뒤 방울을 터트려서 완전히 적을 죽여야 한다. 일정 시간이 지나게 되면 방울 안의 적들이 다시 풀려나며, 제한 시간 안에 스테이지를 클리어하지 못하면 발생하게 되는 적들의 버서커 모드와 점수만을 올리고 스테이지 진행을 하지 않는 꼼수를 방지하기 위한 고스트가 출몰하게 된다. 또한 기본적인 아이템과 효과들도 동일하다.
+
+### **전작과의 차이점 : 게임 플레이 요소**
+
+> 기본적으로 전작들과의 차이를 줄이기 위하여 큰 변화는 주지 않았지만 스테이지의 구성이 ***Bubble Symphony*** 의 경우 총 51스테이지로 스테이지의 개수가 확 줄어들었으며 이어지는 후속편인 ***Bubble Memories*** 에서는 전작보다는 늘었지만 초기작보다는 여전히 작은 80개의 스테이지로 구성되게 된다. 또한 가장 큰 차이점으로는 보스의 개수가 증가하였고 각 보스마다 해당 스테이지까지 향하기까지의 특색이 추가되었다. 캐릭터 선택의 폭이 증가한 것도 하나의 변화이다. 초기작 ***Bubble Bobble*** 과는 다르게 ***Bubble Symphony*** 에서는 총 4개의 캐릭터 **Bubblun, Bobblun, Kululun, Cororon** 의 연두, 파랑, 노랑, 분홍의 캐릭터들로 바뀌게 되었으며, 각각의 능력치가 다르게 설정되었다.  
+>  - Bubblun  
+>  기본적인 캐릭터이며 평균적인 능력치이다. 모아쏘기를 할 경우 3개의 버블이 동시에 사출된다.  
+>  - Bobblun  
+>  　이동속도가 빠른 반면 버블의 사정거리가 감소하였다, 모아쏘기를 할 경우 3개의 버블이 전방 3방향으로 사출된다.  
+>  - Kululun  
+>  　버블의 사정거리가 긴 대신 발사된 버블의 속도가 느린 편이다, 모아쏘기를 할 경우 버블이 앞, 뒤, 아래로 사출된다.  
+>  - Cororon 　발사되는 버블의 속도가 빠른 대신 이동속도가 감소하였다, 모아쏘기를 할 경우 버블이 앞, 뒤, 위로 사출된다.
+
+<hr>
 
 Chapter.10 Credits
 ==================
 
--	### Programmer
-	-	##### S. Takahashi
-	-	##### Drunker. Kzm
-	-	##### Yuichiro. Kawamuki
--	### Character
-	-	##### Shinobu. I
--	### Sound
-	-	##### Shotaro
-	-	##### Ogr, Takagi
-	-	##### Composer Kimi
--	### Planner
-	-	##### Sleepy. Shun
--	### Special Thanks To..
-	-	##### MTJ, I.F (미츠키 후키오)
-	-	##### Kazuya. Tatuya
-	-	##### Omake Tanaka
--	### Producer
-	-	##### S. Takahashi
-	-	##### P.M.D.C.
+> -	### Programmer
+> 	-	##### S. Takahashi
+> 	-	##### Drunker. Kzm
+> 	-	##### Yuichiro. Kawamuki
+> -	### Character
+> 	-	##### Shinobu. I
+> -	### Sound
+> 	-	##### Shotaro
+> 	-	##### Ogr, Takagi
+> 	-	##### Composer Kimi
+> -	### Planner
+> 	-	##### Sleepy. Shun
+> -	### Special Thanks To..
+> 	-	##### MTJ, I.F (미츠키 후키오)
+> 	-	##### Kazuya. Tatuya
+> 	-	##### Omake Tanaka
+> -	### Producer
+> 	-	##### S. Takahashi
+> 	-	##### P.M.D.C.<br>
+
+<hr>  
 
 Chapter.11 References
 =====================
