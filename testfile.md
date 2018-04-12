@@ -149,7 +149,7 @@ Chapter7. Level & Map Design
 > ***Bubble Bobble*** 에는 1층부터 100층까지 총 100개의 Stage가 있고 이중 마지막 100번 방에는 해당 게임을 클리어 할 수 있는 최종 보스가 존재한다. 각각의 Stage을 구성하는 요소는 **플레이어, 몬스터, 벽돌, 구멍, 스폰방울** 이다. 이들을 조합하여 무수하게 많은 종류의 스테이지를 만들어 낼 수 있다.
 
 -	### Design of Chracters, Monsters, Elements  
-	![](Bubble_Bobble_Character_Pic.png)  
+	![](Bubble_Bobble_Character_Pic.PNG)  
 	Character, 좌:Player1 우: Player2  
 
 ##### ***Bubble Bobble*** 의 주인공
