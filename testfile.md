@@ -30,7 +30,14 @@ Chapter2. Synopsis
 Chapter3. Feature
 -----------------
 
--	### Double Player Game(2P)
+-	#### Easy Control
+-	#### High level of Applicability
+-	#### Less Violent
+-	#### Cute Characters  
+-	#### Items  
+-	#### 2P(Double Player Mode)
+-	#### Record
+-	#### Double Player Game(2P)
 
 Chapter4. Critical Reception
 ----------------------------
@@ -132,7 +139,7 @@ Chapter2. Synopsis
 
 > "Baron Von Blubba" has kidnapped the brothers Bubby and Bobby's girlfriends and turned the brothers into Bubble Dragons, Bub and Bob. they have to finish 100 levels in the Cave of Monsters in order to rescue them.  
 > 번역하자면 "Baron Von Blubba"라는 악당이 Bubby와 Bobby의 여자친구를 납치한 뒤 그 둘을 버블공룡으로 만들어 버려 여자친구를 되찾기 위하여 그 둘이 탑을 100층의 몬스터로 가득 찬 미궁을 클리어하는 것이다.<br>  
-> 여기까지가 제작사에서 공개한 ***Bubble Bobble*** 의 세계관이다. 그러나 이스터에그를 활용하여 게임을 분석한 매니아들에 의하여 클리어한 최종보스의 정체는 악당 "Baron Von Blubba"가 아니라 바로 부모님이었고 그의 마법에 걸려 용이 된 주인공의 부모님을 구하면 진짜 엔딩을 볼 수 있다. 아이러니하게도 그냥 플레이 시 최종보스를 섬멸하고 끝나게 되는데, 그렇게 되면 주인공들의 부모님들은 죽는다는 예기가 된다.
+> 여기까지가 제작사에서 공개한 ***Bubble Bobble*** 의 세계관이다. 그러나 이스터에그를 활용하여 게임을 분석한 매니아들에 의하여 클리어한 최종보스의 정체는 악당 "Baron Von Blubba"가 아니라 바로 부모님이었고 그의 마법에 걸려 용이 된 주인공의 부모님을 구하면 진짜 엔딩을 볼 수 있다. 아이러니하게도 그냥 플레이 시 최종보스를 섬멸하고 끝나게 되는데, 그렇게 되면 주인공들의 부모님들은 죽는다는 비극적인 이야기가 된다.
 
 Main Concept
 ------------
@@ -146,6 +153,34 @@ Main Concept
 Chapter3. Feature
 =================
 
+-	#### Easy Control
+
+	> 캐릭터의 움직임과 공격, 점프 등 조작방법을 직관적으로 알 수 있습니다.
+
+-	#### High level of Applicability
+
+	> 조작이 쉽다는 것은 반대로 기본적인 조작을 응용하여 수많은 태크닉을 익힐 수 있다는 것입니다. 방울을 계속 타면서 벽을 올라간다던지, 빠른 제압을 위해 가두자마자 터트리는 등 여러가지 기술들이 존재합니다.
+
+-	#### Less Violent
+
+	> 타 게임은 적을 처치하기 위해서 무기로 공격하거나, 직접 적에게 타격을 가하는 반면, 보글보글은 적을 방울에 가두고 방울을 터트려 적을 처치하는 방식이라, 폭력성이 매우 적은 게임이다.
+
+-	#### Cute Characters
+
+	> 보글보글은 플레이어 캐릭터 뿐만 아니라 몬스터, 심지어 보스 몬스터까지도 위협적이 아니라 귀여운 외형을 띄고 있어서 여러 연령층 및 성별에 구애받지 않고 사람들을 게임으로 끌어들이는 요소로 작용하였다.
+
+-	#### Items
+
+	> 다양한 아이템들이 등장한다. 캐릭터를 강화하는 것부터 스테이지 클리어에 직접적인 영향을 미치는 아이템들이 등장하여 변칙적인 플레이가 가능하다.
+
+-	#### 2P(Double Player Mode)
+
+	> 보글보글은 최대 2명의 플레이어를 지원합니다. 친구, 연인, 가족과 함께 게임을 즐길 수 있습니다. 협력하여서 더 쉽게 게임 클리어를 달성할 수 있습니다.
+
+-	#### Record
+
+	> 자신 혼자의 기록이 아닌 콘솔에서 타인이 세운 기록까지 경쟁하면서 게임을 플레이 할 수 있습니다.
+
 Chapter4. Critical Reception
 ============================
 
@@ -158,14 +193,14 @@ Chapter5. Game Play
 
 	#### Select Mode of the Game 　
 
-	> 게임을 키고 코인을 넣게 되면 모드 선택 화면으로 넘어가며 게임을 시작할 수 있다. 그리고 뒤에 이어 나오는 화면에서는 **NOW IT IS THE BEGINNING OF A FANTASTIC STORY! LET US MAKE A JOURNEY TO THE CAVE OF MONSTERS! GOOD LUCK!** 이라는 글자가 출력되어 플레이어이게 간단한 게임의 목표를 설명해 주면서 게임을 시작하게 된다. 총 100개의 Stage가 준비되어 있으며, 플레이어는 처음에 주어진 목숨으로 100층에 도달하여 최종 보스까지 격파하여야 한다. 아케이드 게임인 이상 한 콘솔에서 게임을 플레이 할 떄마다 랭킹에 등수를 매길 수 있도록 되어있는데, 따라서 플레이어는 점수를 최대로 획득하는 방향으로 플레이를 할 것인지, 최대한 빠른 시간 내에 최종보스를 클리어할 것인지에 대하여 결정하여야 한다. 또한 점수를 선택한 플레이어의 경우 죽어가면서 최종보스를 도달해도, 죽으면 점수가 초기화되어 의미가 없어지기 때문에 죽지 않도록 주의하며 신중한 플레이가 요구된다.<br>  
+	> 게임을 키고 코인을 넣게 되면 모드 선택 화면으로 넘어가며 게임을 시작할 수 있다. 그리고 뒤에 이어 나오는 화면에서는 **NOW IT IS THE BEGINNING OF A FANTASTIC STORY! LET US MAKE A JOURNEY TO THE CAVE OF MONSTERS! GOOD LUCK!** 이라는 글자가 출력되며 플레이어이게 간단한 게임의 목표를 설명해 주면서 게임을 시작하게 된다. 총 100개의 Stage가 준비되어 있으며, 플레이어는 처음에 주어진 목숨으로 100층에 도달하여 최종 보스까지 격파하여야 한다. 아케이드 게임인 이상 한 콘솔에서 게임을 플레이 할 떄마다 랭킹에 등수를 매길 수 있도록 되어있는데, 따라서 플레이어는 점수를 최대로 획득하는 방향으로 플레이를 할 것인지, 최대한 빠른 시간 내에 최종보스를 클리어할 것인지에 대하여 결정하여야 한다. 또한 점수를 선택한 플레이어의 경우 죽어가면서 최종보스를 도달해도, 죽으면 점수가 초기화되어 의미가 없어지기 때문에 죽지 않도록 주의하며 신중한 플레이가 요구된다.<br>  
 	> Bubble Bobble 버전에서는 랭크 모드와 스토리 모드가 구분 없이 합쳐져 있고, 각각의 모드에 대한 구분은 Bubble Bobble Symphony 부터 존재한다.
 
 -	### Game Start
 
 	![](Bubble_Bobble_HurryFlag_withFastSound.png)
 
-	#### Clear the Stage Fastly 　
+	#### Clear the Stage Fast as You Can 　
 
 	> 게임을 일정 시간내에 클리어 하지 못할 경우 제한시간이 얼마 남지 않았을 때 Hurry 라는 문구와 함께 음악이 빨라지고 몬스터의 이동, 행동속도가 빨라져 클리어에 더 어려움을 주기 떄문에 이 문구를 보기 전에 한 스테이지를 클리어 하는 것이 권장된다.
 
@@ -178,6 +213,9 @@ Chapter5. Game Play
 	> 플레이어가 주어진 목숨을 전부 소진할 시, 지금 진행중인 게임을 포기하고 새로 게임을 시작할 것인지, 코인을 넣고 게임을 계속 진행할 것인지에 대하여 선택하는 화면이 출력된다.
 
 -	### Items of Games
+
+	> ㅇㅇ
+
 -	### Experience Game
 
 	> Bubble Bobble 을 직접 해 보고 싶다면 http://www.retrogames.cz/play_216-NES.php 사이트에서 게임을 체험할 수 있다.
