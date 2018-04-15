@@ -45,8 +45,19 @@ Chapter5. Game Play
 Chapter6. Game Rule
 -------------------
 
+-	### Clear the Stage  
+-	### Collect Items to Clear more Easy
+-	### Bonus Stage  
+-	### Special Bubbles  
+-	### Berserk Effect of Enemies  
+-	### Infinite Parming is Not Allowed
+
 Chapter7. Level & Map Design
 ----------------------------
+
+-	### Stage Design
+-	### Design of Elements  
+-	### Design of Chracters, Monsters
 
 Chapter8. Graphics User InterFace
 ---------------------------------
@@ -54,14 +65,19 @@ Chapter8. Graphics User InterFace
 -	### Score Board
 -	### Main Game Screen
 
-Chapter.9 Compare with Later Version
-------------------------------------
+Chapter.9 Game Sound
+--------------------
+
+-	### Main BGM
+
+Chapter.10 Compare with Later Version
+-------------------------------------
 
 -	### Same Part : Condition to Win  
 -	### Same Part : Way of Playing Game
 -	### Different Part : Elements of Game
 
-Chapter.10 Credits
+Chapter.11 Credits
 ------------------
 
 -	### Programmer
@@ -71,7 +87,7 @@ Chapter.10 Credits
 -	### Special Thanks To..
 -	### Producer
 
-Chapter.11 References
+Chapter.12 References
 ---------------------
 
 <hr>  
@@ -136,6 +152,25 @@ Chapter4. Critical Reception
 Chapter5. Game Play
 ===================
 
+-	### Game Start
+
+	![](Bubble_Bobble_SelectMode.jpg)
+
+	#### Select Mode of the Game 　
+
+	> 게임을 키고 코인을 넣게 되면 모드 선택 화면으로 넘어가며 게임을 시작할 수 있다. 그리고 뒤에 이어 나오는 화면에서는 **NOW IT IS THE BEGINNING OF A FANTASTIC STORY! LET US MAKE A JOURNEY TO THE CAVE OF MONSTERS! GOOD LUCK!** 이라는 글자가 출력되어 플레이어이게 간단한 게임의 목표를 설명해 주면서 게임을 시작하게 된다. 총 100개의 Stage가 준비되어 있으며, 플레이어는 처음에 주어진 목숨으로 100층에 도달하여 최종 보스까지 격파하여야 한다. 아케이드 게임인 이상 한 콘솔에서 게임을 플레이 할 떄마다 랭킹에 등수를 매길 수 있도록 되어있는데, 따라서 플레이어는 점수를 최대로 획득하는 방향으로 플레이를 할 것인지, 최대한 빠른 시간 내에 최종보스를 클리어할 것인지에 대하여 결정하여야 한다. 또한 점수를 선택한 플레이어의 경우 죽어가면서 최종보스를 도달해도, 죽으면 점수가 초기화되어 의미가 없어지기 때문에 죽지 않도록 주의하며 신중한 플레이가 요구된다.
+
+-	### Game
+-	### Game Over
+
+	![](Bubble_Bobble_GameOver.jpg)
+
+	#### Game Over Screen
+
+	> 플레이어가 주어진 목숨을 전부 소진할 시, 지금 진행중인 게임을 포기하고 새로 게임을 시작할 것인지, 코인을 넣고 게임을 계속 진행할 것인지에 대하여 선택하는 화면이 출력된다.
+
+-	### Items of Games
+
 Chapter6. Game Rule
 ===================
 
@@ -143,13 +178,17 @@ Chapter6. Game Rule
 
 -	#### Clear the Stage
 
-	> 모든 스테이지마다 그 스테이지만의 독특한 구성 요소가 존재하고 격파를 도와주는 장치도 있다. 그러한 장치들을 적재적소에 활용하여 스테이지를 클리어하여야 한다. 그 과정에서 플레이어의 창의력이 요구되기도 한다.<br>
+> 모든 스테이지마다 그 스테이지만의 독특한 구성 요소가 존재하고 격파를 도와주는 장치도 있다. 그러한 장치들을 적재적소에 활용하여 스테이지를 클리어하여야 한다. 그 과정에서 플레이어의 창의력이 요구되기도 한다.<br>
 
 -	#### Collect Items to Clear more Easy
 
-	> 게임을 플레이하다보면 형형색색(빨강, 파랑, 노랑)의 사탕들을 반견할 수 있다. 이 사탕들은 아이템 중에서도 플레이어를 강화해 주는 아이템으로써 노란 사탕은 거품 연사 속도가 증가하고, 파란 사탕을 거품이 나가는 속도가 증가, 빨간 사탕은 거품의 사정거리가 증가하는 효과를 보유하고 있다. 신발도 출현하는 아이템 중 하나인데, 캐릭터의 이동속도를 증가시킨다.
+> 게임을 플레이하다보면 형형색색(빨강, 파랑, 노랑)의 사탕들을 반견할 수 있다. 이 사탕들은 아이템 중에서도 플레이어를 강화해 주는 아이템으로써 노란 사탕은 거품 연사 속도가 증가하고, 파란 사탕을 거품이 나가는 속도가 증가, 빨간 사탕은 거품의 사정거리가 증가하는 효과를 보유하고 있다. 신발도 출현하는 아이템 중 하나인데, 캐릭터의 이동속도를 증가시킨다.
 
 -	#### Bonus Stage
+
+![](Bubble_Bobble_Extra_Life_Letter.jpg)
+
+#### 이러한 글자들을 모으게 되면 보너스 스테이지로 이동하여 큰 점수를 획득할 수 있다.
 
 > 구멍이 뚫린 스테이지에서 3명 이상의 적을 동시에 처치할 경우 **E, X, T, E, N, D** 글자중 2개가 랜덤으로 나오게 되는데 이 글자를 모두 모을 시 보너스 스테이지로 이동하여 상당한 점수를 획득할 수 있다.
 
@@ -159,9 +198,13 @@ Chapter6. Game Rule
 
 -	#### Berserk Effect of Enemies  
 
+![](Bubble_Bobble_Monster_Burserk.jpg)
+
+##### **붉은색 몬스터가 버서커 모드가 발동된 몬스터이다.**
+
 > 일정한 시간이 지나거나 적을 방울에 가둔 후 처리하지 못할 경우 적들을 화나게 하는 버서커 모드가 발생하여 적들의 이동 속도가 빨라지고 공격 빈도가 늘어나는 효과가 부여된다. 이는 클리어를 방해하는 요인 중 하나로써 버서커 모드가 일어나기 전에 해당 스테이지를 클리어하고 넘어가는것이 권장된다.
 
--	#### Infinite Parming[1] is Not Allowed
+-	#### Infinite Parming is Not Allowed
 
 > 영구 파밍, 스테이지를 나아가지 않고 한 스테이지에 머물러서 영원이 점수를 따는 행위를 방지하기 위하여 영파 방지 몬스터가 존재한다. 이 몬스터는 무적이며, 비행하고, 시간이 지날수록 이동 속도가 빨라지므로 점수를 최대한 벌고 싶은 경우에는, 하나의 적을 남겨 놓고 점수를 올리다가 몬스터가 튀어나오면 남은 적을 잡고 다음 스테이지로 이동하도록 하는 것을 권장한다.
 
@@ -174,11 +217,21 @@ Chapter7. Level & Map Design
 
 > ***Bubble Bobble*** 에는 1층부터 100층까지 총 100개의 Stage가 있고 이중 마지막 100번 방에는 해당 게임을 클리어 할 수 있는 최종 보스가 존재한다. 각각의 Stage을 구성하는 요소는 **플레이어, 몬스터, 벽돌, 구멍, 스폰방울** 이다. 이들을 조합하여 무수하게 많은 종류의 스테이지를 만들어 낼 수 있다.
 
--	### Design of Chracters, Monsters, Elements
+-	### Design of Elements
 
-	![](Bubble_Bobble_character_pic.PNG)
+> #### 벽돌
+>
+> -	플레이어와 몬스터의 활동하는 장소, 스테이지를 구성하는 요소이며 물리적 요소인 충돌자가 설정되어 있어서 플레이어와 몬스터, 방울에게 물리적으로 제한한다.
+>
+> #### 방울
+>
+> -	플레이어가 생성하는 방울 외에도 맵에 위 아래로 구멍이 뚤린 맵의 경우 방울이 주기적으로 올라오게 된다. 성질은 플레이어가 내뿜는 방울과 같다(적을 가둘 수 없다는 점을 제외하면) 그 방울로 인하여 여러가지 변칙적인 플레이가 가능하다. 콤보킬을 한다던지, 낭떠러지에 같힌 경우 방울을 타고 올라가 탈출한다던지 여러가지의 활용성이 존재한다.  
 
-	Character, 좌:Player1 우: Player2
+-	### Design of Chracters, Monsters
+
+![](Bubble_Bobble_character_pic.PNG)
+
+Character, 좌:Player1 우: Player2
 
 ##### ***Bubble Bobble*** 의 주인공
 
@@ -241,8 +294,22 @@ Game Main Screen 구성
 
 <hr>
 
-Chapter.9 Compare with Later Version
-====================================
+Chapter.9 Game Sound
+====================
+
+### Main BGM
+
+> #### Bubble Bobble Main BGM[1] - https://bgmstore.net/view/KMsQv
+>
+> 보글보글의 유일한 SoundTrack이자 Main BGM인 노래이다. 짧은 길이의 밝고 경쾌한 BGM이 반복된다. 플레이어가 스테이지를 빨리 클리어하지 못하면 **HURRY UP** 문구와 함께 노래가 빨라진다는 특징이 있다. 중독성이 강한 특유의 리듬과 사람들에게 향수를 일으키는 멜로디로 인하여 광고에서도 많이 사용되었다[2].
+
+　[1] : Back Ground Music 의 약자로서 보글보글의 경우 1개의 곡만이 존재한다.  
+　[2] : 2009년 삼양라면의 광고로 사용되었다.
+
+<hr>
+
+Chapter.10 Compare with Later Version
+=====================================
 
 ### ***Bubble Bobble*** 의 후속편
 
@@ -282,7 +349,7 @@ Chapter.9 Compare with Later Version
 
 <hr>
 
-Chapter.10 Credits
+Chapter.11 Credits
 ==================
 
 > -	### Programmer
@@ -307,7 +374,7 @@ Chapter.10 Credits
 
 <hr>  
 
-Chapter.11 References
+Chapter.12 References
 =====================
 
 ### Web
