@@ -39,8 +39,8 @@ Chapter3. Feature
 -	#### Record
 -	#### Double Player Game(2P)
 
-Chapter4. Critical Reception
-----------------------------
+Chapter4. Evaluation
+--------------------
 
 -	### Positive Review in Game Review Website(GameSpot)
 
@@ -48,13 +48,14 @@ Chapter5. Game Play
 -------------------
 
 -	### Game Start
--	### Game
+-	### Game Play
 -	### Items of Game
 
-Chapter6. Game Rule
--------------------
+Chapter6. Game Rules
+--------------------
 
 -	### Clear the Stage  
+-	### Carefull of Attacks  
 -	### Collect Items to Clear more Easy
 -	### Bonus Stage  
 -	### Special Bubbles  
@@ -79,14 +80,21 @@ Chapter.9 Game Sound
 
 -	### Main BGM
 
-Chapter.10 Compare with Later Version
+Chapter.10 Game Evaluation
+--------------------------
+
+-	### Feelings of Reaporter(강형국)
+-	### Positive parts of Game Design
+-	### Parts that are Need to Improve of Game Design
+
+Chapter.11 Compare with Later Version
 -------------------------------------
 
 -	### Same Part : Condition to Win  
 -	### Same Part : Way of Playing Game
 -	### Different Part : Elements of Game
 
-Chapter.11 Credits
+Chapter.12 Credits
 ------------------
 
 -	### Programmer
@@ -96,7 +104,7 @@ Chapter.11 Credits
 -	### Special Thanks To..
 -	### Producer
 
-Chapter.12 References
+Chapter.13 References
 ---------------------
 
 <hr>  
@@ -183,8 +191,8 @@ Chapter3. Feature
 
 	> 자신 혼자의 기록이 아닌 콘솔에서 타인이 세운 기록까지 경쟁하면서 게임을 플레이 할 수 있습니다.
 
-Chapter4. Critical Reception
-============================
+Chapter4. Evaluation
+====================
 
 -	### Positive Review[1] in Game Review Website(GameSpot)
 
@@ -240,29 +248,43 @@ Chapter5. Game Play
 	> 게임을 키고 코인을 넣게 되면 모드 선택 화면으로 넘어가며 게임을 시작할 수 있다. 그리고 뒤에 이어 나오는 화면에서는 **NOW IT IS THE BEGINNING OF A FANTASTIC STORY! LET US MAKE A JOURNEY TO THE CAVE OF MONSTERS! GOOD LUCK!** 이라는 글자가 출력되며 플레이어이게 간단한 게임의 목표를 설명해 주면서 게임을 시작하게 된다. 총 100개의 Stage가 준비되어 있으며, 플레이어는 처음에 주어진 목숨으로 100층에 도달하여 최종 보스까지 격파하여야 한다. 아케이드 게임인 이상 한 콘솔에서 게임을 플레이 할 떄마다 랭킹에 등수를 매길 수 있도록 되어있는데, 따라서 플레이어는 점수를 최대로 획득하는 방향으로 플레이를 할 것인지, 최대한 빠른 시간 내에 최종보스를 클리어할 것인지에 대하여 결정하여야 한다. 또한 점수를 선택한 플레이어의 경우 죽어가면서 최종보스를 도달해도, 죽으면 점수가 초기화되어 의미가 없어지기 때문에 죽지 않도록 주의하며 신중한 플레이가 요구된다.<br>  
 	> Bubble Bobble 버전에서는 랭크 모드와 스토리 모드가 구분 없이 합쳐져 있고, 각각의 모드에 대한 구분은 Bubble Bobble Symphony 부터 존재한다.
 
--	### Game Start
+-	### Game Play
 
-	![](Bubble_Bobble_HurryFlag_withFastSound.png)
+![](Gamestart.png)  
+ > 게임을 시작하게 되면 해당 스테이지의 몬스터들이 잠시 멈춘 상태로 출현하여 지형을 익히고 플레이어는 해당 스테이지에 대한 대책을 세울 수 있다.
 
-	#### Clear the Stage Fast as You Can 　
+![](Bubble_Bobble_Catch+Pop_Monster.jpg)  
+ >게임 플레이 중 이러한 방식으로 적을 방울에 가둔 후 터트리면 오른쪽처럼 죽어 날아가 점수를 획득 할 수 있는 아이템으로 변하게 된다. 또한 저 사진에서 시간이 자나 방울들이 위로 올라가 뭉칠 경우, 한번에 여러 적들을 터트릴 수 있는데, 그러면 콤보 킬로 인하여 추가 점수를 얻고 몬스터로부터 나오는 아이템의 질도 올라가게 되어 높은 점수를 획득할 수 있는 발판이 된다. > >또한 한 스테이지를 한 번의 방울 터트림으로 모든 적을 클리어 할 시 올 클리어 보상을 획득 할 수 있게 되어 어마어마한 양의 점수를 획득 할 수 있다. 게임 랭킹에 높은 위치를 노리고 있다면 각 스테이지를 콤보킬 할 수 있는 방법을 생각하는 것이 좋다.
 
-	> 게임을 일정 시간내에 클리어 하지 못할 경우 제한시간이 얼마 남지 않았을 때 Hurry 라는 문구와 함께 음악이 빨라지고 몬스터의 이동, 행동속도가 빨라져 클리어에 더 어려움을 주기 떄문에 이 문구를 보기 전에 한 스테이지를 클리어 하는 것이 권장된다.
+![](Bubble_Bobble_HurryFlag_withFastSound.png)
+
+#### Clear the Stage Fast as You Can 　
+
+> 게임을 일정 시간내에 클리어 하지 못할 경우 제한시간이 얼마 남지 않았을 때 Hurry 라는 문구와 함께 음악이 빨라지고 몬스터의 이동, 행동속도가 빨라져 클리어에 더 어려움을 주기 떄문에 이 문구를 보기 전에 한 스테이지를 클리어 하는 것이 권장된다.
 
 -	### Game Over
 
-	![](Bubble_Bobble_GameOver.jpg)
+![](Game_End.png)
 
-	#### Game Over Screen
+#### Game Clear screen
 
-	> 플레이어가 주어진 목숨을 전부 소진할 시, 지금 진행중인 게임을 포기하고 새로 게임을 시작할 것인지, 코인을 넣고 게임을 계속 진행할 것인지에 대하여 선택하는 화면이 출력된다.
+> 플레이어가 보스까지 퇴치하여 게임을 클리어 조건을 만족하여 게임을 클리어하게 되면, 게임 클리어 축하 문구와 함께 게임이 클리어되고 엔딩 크레딧으로 넘어가게 된다.
 
--	### Items of Games
+![](Bubble_Bobble_GameOver.jpg)
 
-	> 여러가지 모양의 아이템들이 있다. 크게 캐릭터의 능력치를 올려주는 아이템, 점수를 올려주는 아이템, 스테이지 클리어에 직접적으로 영향을 미치는 아이템들로 구성되어 있다.
+#### Game Over Screen
+
+> 플레이어가 주어진 목숨을 전부 소진할 시, 지금 진행중인 게임을 포기하고 새로 게임을 시작할 것인지, 코인을 넣고 게임을 계속 진행할 것인지에 대하여 선택하는 화면이 출력된다.
+
+-	### Items of Games(게임의 진행-캐릭터강화 및 점수획득)
+
+![](smsbubblebobble-foodgallery.png)
+
+> 여러가지 모양의 아이템들이 있다. 크게 캐릭터의 능력치를 올려주는 아이템, 점수를 올려주는 아이템, 스테이지 클리어에 직접적으로 영향을 미치는 아이템들로 구성되어 있다. 모든 아이템들은 기본적으로 점수를 가지고 있어서 획득 시 일정량의 점수가 올라가게 되고 이로 인하여 올라가게 된 점수들은 적 퇴치 점수에 더해져서 콘솔에서의 각각 사용자에 대한 순위를 매기게 되는 척도가 된다.
 
 -	### Experience Game
 
-	> Bubble Bobble 을 직접 해 보고 싶다면 http://www.retrogames.cz/play_216-NES.php 사이트에서 게임을 체험할 수 있다.
+> Bubble Bobble 을 직접 해 보고 싶다면 http://www.retrogames.cz/play_216-NES.php 사이트에서 게임을 체험할 수 있다.
 
 <hr>
 
@@ -274,6 +296,10 @@ Chapter6. Game Rule
 -	#### Clear the Stage
 
 > 모든 스테이지마다 그 스테이지만의 독특한 구성 요소가 존재하고 격파를 도와주는 장치도 있다. 그러한 장치들을 적재적소에 활용하여 스테이지를 클리어하여야 한다. 그 과정에서 플레이어의 창의력이 요구되기도 한다.<br>
+
+-	#### Carefull of Attacks
+
+> 적들에게 공격받아 피격할 때마다 Life가 감소하여 모든 Life가 감소하게 되면 캐릭터가 사망하게 되고 게임 오버가 된다. 원거리 공격부터 시작해서 접촉까지 적의 모든 공격을 경계하는 태도가 요구된다.<br>
 
 -	#### Collect Items to Clear more Easy
 
@@ -310,7 +336,14 @@ Chapter7. Level & Map Design
 
 ##### ***Bubble Bobble*** 에서 1층에서부터 100층까지의 Stage 생김새
 
-> ***Bubble Bobble*** 에는 1층부터 100층까지 총 100개의 Stage가 있고 이중 마지막 100번 방에는 해당 게임을 클리어 할 수 있는 최종 보스가 존재한다. 각각의 Stage을 구성하는 요소는 **플레이어, 몬스터, 벽돌, 구멍, 스폰방울** 이다. 이들을 조합하여 무수하게 많은 종류의 스테이지를 만들어 낼 수 있다.
+> ***Bubble Bobble*** 에는 1층부터 100층까지 총 100개의 Stage가 있고 이중 마지막 100번 방에는 해당 게임을 클리어 할 수 있는 최종 보스가 존재한다. 각각의 Stage을 구성하는 요소는 **플레이어, 몬스터, 벽돌, 구멍, 스폰방울** 이다. 이들을 조합하여 무수하게 많은 종류의 스테이지를 만들어 낼 수 있다. 또한 ***Bubble Bobble*** 에는 게임 모드가 따로 존재하지 않고 오로지 1층부터 100층을 오른다는 하나의 모드만이 존재한다.
+
+-	### Game Flow  
+	![](GameingExample.png) ![](GameingExample2.png)
+
+#### ***Bubble Bobble*** 의 게임 흐름
+
+> 게임 시작부터 하여 방울에 적들을 가두고 해당 스테이지에 존재하는 모든 적들을 클리어하게 되면 화면이 이동하며 캐릭터가 다음 스테이지로 나아가게 된다. 이를 위에 기술된 **Stage Design** 에서 각각의 스테이지마다 적들을 해치워 나가면서 ***1층에서 100층*** 까지 반복하면 되는 간단한 방식의 게임 진행을 가지고 있다.
 
 -	### Design of Elements
 
@@ -406,7 +439,24 @@ Chapter.9 Game Sound
 
 <hr>
 
-Chapter.10 Compare with Later Version
+Chapter.10 Game Evaluation
+--------------------------
+
+-	### Feelings of Reaporter(강형국)
+
+	> 어릴적 해본 게임에 대한 추억을 바탕으로 다시 게임을 찾게 되었다. 최근에 발달된 게임 엔진과 게임 진행 방식, 레벨 디자인 등에 익숙해져있던 자신이라 게임을 플레이하는 도중 캐릭터의 이동이 답답하고 그래픽 디자인도 아쉬웠다. 특히 1층부터 100층까지 가는데 보스가 1개밖에 없다는 사실도 유저로 하여금 게임을 진행하는데 지루함을 느낄 수 있는 부분이다. 그러나 이 게임의 발매년도를 살펴보면 당시에는 얼마나 큰 혁명이었는지 짐작 해 볼 수 있다.
+	>
+	> 게임 개발 측면에서는 캐릭터와 몬스터의 물리적 부분에 대한 구현이 부족해 보였다.
+
+-	### Positive parts of Game Design
+
+	> 여성들을 게임 플레이어의 무대로 끌어내게 한 원인이 되는 게임이자, 이전에는 없었던 구조의 플레이 방식을 채택(바로 죽이는 잔인한 방식이 아닌 방울에 가두고 그 방울을 터트리는 방식)으로 인하여 많은 연령들을 게임으로 글어들일 수 있었고 2인용 게임으로 만들어 졌기 떄문에, 커플들이 해당 게임을 이용하는 빈도가 상당히 높았다.
+
+-	### Parts that are Need to Improve of Game Design
+
+	> 게임 개발 측면에 있어서 물리적 부분에서의 가속도를 추가하여 주면 게임에서의 현실성과 난이도가 높아져 플레이어들에게 있어서 게임에 대한 몰입도를 증가시킬 수 있을 것이다. 또한 1층부터 100층까지의 보스 등장 횟수는 단 1회인데 반하여 거기에 도달하기까지의 클리어해야하는 스테이지 횟수, 플레이 시간이 막대하게 길기 때문에 보스의 출현 빈도를 증가시키고 난이도를 점차 어렵게 설정하는 부분이 플레이어에게 게임에 대한 신선함을 유지시켜서 쉽게 질리지 않게 도와줄 것이다. 또한 아이템들이나 속성 방울도 너무 단조롭기 때문에 조금더 추가를 했다면 좋을 것이다.
+
+Chapter.11 Compare with Later Version
 =====================================
 
 ### ***Bubble Bobble*** 의 후속편
@@ -447,7 +497,7 @@ Chapter.10 Compare with Later Version
 
 <hr>
 
-Chapter.11 Credits
+Chapter.12 Credits
 ==================
 
 > -	### Programmer
@@ -472,7 +522,7 @@ Chapter.11 Credits
 
 <hr>  
 
-Chapter.12 References
+Chapter.13 References
 =====================
 
 ### Web
