@@ -42,6 +42,8 @@ Chapter3. Feature
 Chapter4. Critical Reception
 ----------------------------
 
+-	### Positive Review in Game Review Website(GameSpot)
+
 Chapter5. Game Play
 -------------------
 
@@ -184,6 +186,48 @@ Chapter3. Feature
 Chapter4. Critical Reception
 ============================
 
+-	### Positive Review[1] in Game Review Website(GameSpot)
+
+> #### 보글보글 리뷰
+>
+> **2008년 1월 18일 17시 Austin Shau 이**
+>
+> ***Bubble Bobble*** 의 캐릭터 및 픽업의 다채로운 캐스트와 연쇄 반응의 버블 링 게임 플레이는 매력적이고 아주 좋은 경험을 제공합니다.
+>
+> 우리가 알고 있는 대부분의 용들은 보통 입에서 불낄을 뿜는 반면. Bubble Bobble을 제작한 Taito는 불길 대신 거품을 뱉어내는 부분에 있어서 게임을 매우 잘 만들었다고 볼 수 있습니다. 많은 홈 시스템에 포팅 된 플랫폼 액션 아케이드 게임 인 닌텐도 엔터테인먼트 시스템 (Nintendo Entertainment System)에 공개 된 버전은 Wii의 버추얼 콘솔 서비스에서 사용 가능하며 바쁜 포인트 쌓기 게임 플레이가 얼마나 오래되었는지 보여줍니다.
+>
+> 당신은 드래곤 Bub와 Bob으로 플레이하고 여자 친구를 구하기 위해 "Cave of Monsters"로 향하게 됩니다. 게임 플레이 방식으로 : 평범한 동물들이 흩어져있는 각각의 스테이지를 클리어하고, 발견 된 적들을 거품으로 가두고 거품을 터트려서 클리어합니다. 한 스테이지에 존재하는 모든 적들을 퇴치하면 다음 단계로 이동하게 됩니다. 버블을 발사하는 방법에 영향을 미치는 것들로는 사탕과 물, 화염, 천둥의 급류를 방출하는 특수 거품, 화면 정리 마법을 발휘하는 마법책같은 특수한 아이템에도 불구하고 Bubble Bobble은 기술 습득이 필요합니다. 특수한 스테이지에서는 적에 도달하기 위해 객실 주변에 떠있는 거품을 타는 법을 배워야합니다. 또한 각 방의 "환경"를 고려해야하는데, 이는 거품을 서로 다른 패턴으로 서로 다른 속도로 흐르게합니다. 더 어려운 단계 중 일부는 빠른 속도로 모든 거품을 구석에 밀어 넣고 짧은 시간만에 거품을 터뜨려야 하기에 방을 정리하기에는 오래 기다려야 합니다. 그리고 당신이 인생을 잃거나 레벨을 끝낼 때까지, 무시 무시한 화이트 벨루가(영파 방지 몬스터)가 당신을 쫓을 것입니다.
+>
+> 또한 스테이지를을 클리어하는데 있어서의 효율성이 높아질 때 만족도가 높아집니다. 적들에게를 덫을 놓은 다음 자신의 거품을 개별적으로 터뜨리기위한 책략은 모두 훌륭하고 훌륭합니다. 전체 거품을 한 번에 연결하여 터뜨릴 수 있기 때문에 실제 한 방의 몬스터를 동시에 처리할 때 당신은 카타르시스를 느낄 수 있을 겁니다. 각각의 함정에 몬스터들을 잡아서 조심스럽게 밀어 넣습니다. 그 결과, 당신의 적을 어느 방향 으로든 날려 보내는 폭발이 일어나고, 맛좋은 맛있는 것(아이템)들을 들고 떠납니다. 이러한 행동들은 가치가 있습니다. 추가 생명을 얻을 가능성이 높아지기 때문입니다. 한꺼번에 잡는 몬스터가 많을수록 포인트 보상이 커지게 됩니다. 아이스크림 콘, 아이스크림, 과일, 채소, 목걸이, 싸구려, 반지, 다이아몬드, 크리스탈 및 파라솔로 즉시 점수를 획득할 수 있습니다. Bubble Bobble의 2 인용 모드에서 협력적인 모드에서은 누가 더 많은 점수를 얻을 수 있는지를 알기위한 신속한 경쟁이됩니다.
+>
+> 접근성이 높고 중독성이있는 게임 플레이로 Bubble Bobble은 모든 사람들에게 큰 즐거움을 선사하였습니다. 단, 과자 사용을 피하는 사람들은 Bubble Bobble의 달콤한 시선으로 보지 않을 수 있습니다. 모든 캐릭터는 지나치게 다채롭고 귀엽고 이상한 방식으로 그려집니다. 처음부터 끝까지 재생되는 음악은 끊임없이 변화하는 음악을 사용하지 않은 단 하나의 영구적인 chipper ditty입니다. 그럼에도 불구하고 게임은 엄청난 인기를 가지고 있습니다.
+>
+> 99 개의 독특한 스테이지, 거대한 다양한 픽업, 적, 파워 업, 그리고 간단하면서도 숙련 된 게임 플레이로이 게임을 아무렇지도 않게 다운로드 할 수 있습니다. 심장이 존재한다면 당신은 귀여움 때문에 뺨을 반복해서 꼬집고 싶게 될 것입니다.
+
+<br>
+
+> #### Bubble Bobble Review
+>
+> **Austin Shau on Jan 18, 2008 17:00 PM**
+>
+> Bubble Bobble's colorful cast of characters and pickups, as well as its chain-reaction bubble-bursting gameplay, provides a charming, very well-aged experience.
+>
+> Reptilian beasts of myth are supposed to belch vicious flames from their mouths. Yet with Bubble Bobble, Taito somehow made it completely awesome for dragons to spit bubbles instead. A platform action arcade game that was ported to many home systems, the version released on the Nintendo Entertainment System is available on the Wii's Virtual Console service and shows off just how well its hectic, points-hoarding gameplay has aged.
+>
+> You play as dragons Bub and Bob and set out to the "Cave of Monsters" to rescue your girlfriends. How to do this is simple: Travel through self-contained rooms with platforms and mean critters strewn about, trap each one of these finds in bubbles, and burst said bubbles. Once every enemy in a room has been taken care of, you're transported to the next stage. You've got a large arsenal of power-ups at your disposal: candies that affect how you launch your bubbles; special bubbles that release torrents of water, flames, or thunder; and spell books that unleash screen-clearing magic.
+>
+> Despite the friendly mechanics, Bubble Bobble requires technique to master. You'll have to learn how to "ride" bubbles floating around the rooms in order to reach out-of-the-way platforms and enemies. You also have to take into account each room's "current," which forces bubbles to float about in different patterns at different speeds. Some of the more difficult stages will force every bubble into a corner at high speeds, popping them after only a short while. Wait too long to clear a room, and a ghastly, invincible White Beluga will chase you until you lose a life or finish the level. But the inviting controls make this all intuitive to pick up, and you'll appreciate the sense of accomplishment that comes with riding a wave of bubbles to snare that last, troublesome twerp hiding in the corner just before the White Beluga catches you.
+>
+> There's also satisfaction to be had when you become more efficient at clearing rooms. Settling for trapping enemies and then popping their bubbles individually is all well and good. However, because you can burst an entire cluster of bubbles at once, the real catharsis comes when you take out every monster in the room at the same time: Just trap each one and then carefully push them all together. The result is a gleeful explosion that sends your enemies flying every which way, leaving behind delicious goodies to grab. Each of these many pickups is worth different numbers of points--putting you that much closer to earning extra lives. The more monsters you knock out at once, the bigger your immediate point reward--and the more you'll litter the playfield with ice cream cones, popsicles, fruits, vegetables, necklaces, baubles, rings, diamonds, crystals, and parasols. In Bubble Bobble's two-player mode, cooperation quickly becomes a hectic competition to see who can grab more loot.
+>
+> The accessible, addictive gameplay makes Bubble Bobble great fun for everyone, though those with an aversion to sweets might balk at Bubble Bobble's sugary presentation. Every character is drawn in an overly colorful, cute, wacky fashion. The music that plays throughout is a single, perpetually chipper ditty that could use some changing up once in a while. Still, the visuals and audio are hard not to love--as is Bubble Bobble as a whole.
+>
+> At 500 Wii points, the 99 completely unique rooms, huge variety of pickups, enemies, and power-ups, and simple yet skillful gameplay make downloading this game a no-brainer. If you have a beating heart, this game is one whose cheeks you'll want to pinch over and over again.
+
+　[1] : https://www.gamespot.com/reviews/bubble-bobble-review/1900-6184910/
+
+<hr>
+
 Chapter5. Game Play
 ===================
 
@@ -214,7 +258,7 @@ Chapter5. Game Play
 
 -	### Items of Games
 
-	> ㅇㅇ
+	> 여러가지 모양의 아이템들이 있다. 크게 캐릭터의 능력치를 올려주는 아이템, 점수를 올려주는 아이템, 스테이지 클리어에 직접적으로 영향을 미치는 아이템들로 구성되어 있다.
 
 -	### Experience Game
 
@@ -444,3 +488,5 @@ Chapter.12 References
 	-	http://www.adamdawes.com/retrogaming/bbguide/
 -	Promoted: Bubble Bobble is the stupidest game ever (Used at Critical Reception)
 	-	https://www.destructoid.com/promoted-bubble-bobble-is-the-stupidest-game-ever-495148.phtml
+-	Bubble Bobble Review(GameSpot)
+	-	https://www.gamespot.com/reviews/bubble-bobble-review/1900-6184910/
